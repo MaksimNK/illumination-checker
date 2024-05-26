@@ -1,24 +1,12 @@
-# ChipNavigation
-
-This is a simple custom made bottom chip navigation bar.
-
-
-## Project Demo 
-
-Project video link https://www.youtube.com/shorts/E6Frty2TLL8
-
-
-
-<!-- ## Features
-
-- chip navigation 
-- custom colors . -->
+This is an application for determining the level of illumination in a room made as a course project for the university.
+This is one of the parts of the project.
+The general structure of the Arduino system -> server -> mobile application
 
 
 
 
 ## Screenshots
-![photo_2022-03-05_18-46-20](https://user-images.githubusercontent.com/70539485/156884718-e71a94c1-0f7a-4041-9654-068b22cac142.jpg)
+![Image alt](https://github.com/MaksimNK/illumination-checker/raw/main/Screenshot_20240515_052210.png)
 ![photo_2022-03-05_18-46-15](https://user-images.githubusercontent.com/70539485/156884720-3ffde86d-b96a-4b63-85fb-af163943d416.jpg)
 
 
